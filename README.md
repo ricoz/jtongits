@@ -6,4 +6,4 @@ Source code of the J2ME MIDP 1.0 port of the Tongits game released in 2006. The 
 
 ## Screenshots
 
-![](https://cdn.rawgit.com/ricoz/jtongits/7403cd8f/screenshots/1.jpg)
+![](screenshots/1.jpg)
